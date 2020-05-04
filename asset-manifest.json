@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da9aeb1d.chunk.css",
+    "main.js": "/static/js/main.c81836ad.chunk.js",
+    "main.js.map": "/static/js/main.c81836ad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.66891d28.js",
+    "runtime-main.js.map": "/static/js/runtime-main.66891d28.js.map",
+    "static/js/2.e7d2f951.chunk.js": "/static/js/2.e7d2f951.chunk.js",
+    "static/js/2.e7d2f951.chunk.js.map": "/static/js/2.e7d2f951.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9d06c7466df1c21aefcdd576fea424b5.js": "/precache-manifest.9d06c7466df1c21aefcdd576fea424b5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.da9aeb1d.chunk.css.map": "/static/css/main.da9aeb1d.chunk.css.map",
+    "static/js/2.e7d2f951.chunk.js.LICENSE.txt": "/static/js/2.e7d2f951.chunk.js.LICENSE.txt",
+    "static/media/01.jpg": "/static/media/01.c66b572d.jpg",
+    "static/media/02.jpg": "/static/media/02.b212d773.jpg",
+    "static/media/03.jpg": "/static/media/03.e97f7d15.jpg",
+    "static/media/ElProf.jpg": "/static/media/ElProf.240c9db8.jpg",
+    "static/media/InkedOptimized-soham_LI.jpg": "/static/media/InkedOptimized-soham_LI.44ad94a5.jpg",
+    "static/media/art-educational-paper-phrase-142815.jpg": "/static/media/art-educational-paper-phrase-142815.e8188c12.jpg",
+    "static/media/membercard.css": "/static/media/cardBack.fac643b6.jpg",
+    "static/media/f2.png": "/static/media/f2.9155a9e9.png",
+    "static/media/styles.css": "/static/media/unnamed.4628cfd1.png",
+    "static/media/naturephotography.jpg": "/static/media/naturephotography.c0891ede.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66891d28.js",
+    "static/js/2.e7d2f951.chunk.js",
+    "static/css/main.da9aeb1d.chunk.css",
+    "static/js/main.c81836ad.chunk.js"
+  ]
+}
